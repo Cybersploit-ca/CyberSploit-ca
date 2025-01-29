@@ -1,8 +1,19 @@
-## Hi there 👋
+## Bonjour, je suis Thierry 
+<a href="https://www.linkedin.com](https://www.linkedin.com/in/thierrymatrat/"><img src="https://img.shields.io/badge/-Linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+[En bref]
+
+•	Professionnel de plus de 25 ans d’expérience en Technologies de l’Information (gestion de projets et administration de bases de données SQL Server), avant une réorientation dans le domaine de la cybersécurité en 2022.
+
+•	Fort d’une solide compréhension des systèmes informatiques et des enjeux technologiques, j’ai développé une capacité à identifier, résoudre et prévenir des problématiques complexes, en vue d’assurer la confidentialité, l’intégrité et la disponibilité de systèmes hautement sensibles. 
+
+•	Ma transition vers la cybersécurité est motivée par un désir d’aider mes clients à anticiper les menaces émergentes et à contribuer à la protection de leurs systèmes d’information.................
+
+[Objectifs]
+..... ..... .... ....
 
 <!--
-**Cybersploit-ca/CyberSploit-ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
